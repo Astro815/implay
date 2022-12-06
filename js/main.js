@@ -20,6 +20,6 @@ function getMovies() {
             }
         }
     };
-    xhttp.open("GET", "../json/dtm.json", true);
+    xhttp.open("GET", "implay/json/dtm.json", true);
     xhttp.send();
 }
