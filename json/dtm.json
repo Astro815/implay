@@ -1,0 +1,143 @@
+{
+    "rm": [
+        "proximomundo",
+        "renegados",
+        "mycatlucy",
+        "fuelled",
+        "fnaf_historia",
+        "hazbinhotel",
+        "helluvaboss",
+        "littlerunmo"
+    ],
+    "movies": {
+        "model": {
+            "title": "Nome",
+            "img": "Imagem",
+            "desc": "Descrição",
+            "dtl": "AnoCriação",
+            "author": "Nick&Nome",
+            "contato": "Link",
+            "cl": 0,
+            "link": "https://youtu.be/_link_",
+            "channel": "",
+            "tag": []
+        },
+        "fnaf_historia": {
+            "title": "A Historia FNAF",
+            "img": "https://pbs.twimg.com/media/FbRdQTTXgAEgzIb?format=jpg&name=4096x4096",
+            "desc": "Reviva a história que aterrorizou o mundo inteiro entre 2014 e 2018.“ Five Nights at Freddy 's: A História”,agora numa série original de 6 episódios produzida pelo canal de Youtube brasileiro“ Bonk Show”,baseada na história de“ Five Nights at Freddy 's” de Scott Cawthon!\nApós tragédias destruírem a família Afton,Michael terá que pôr um fim aos planos maléficos de seu pai William Afton, um homem que representa o próprio mal, e que independentemente do que aconteça, ele sempre volta.",
+            "dtl": "2022",
+            "author": "Bonk Show",
+            "contato": "https://twitter.com/BonkShow",
+            "cl": 12,
+            "link": "https://youtu.be/FKiiQCXGvXA",
+            "channel": "https://www.youtube.com/channel/UCAY8q_zXHkmNyRV0UZcfb7w",
+            "tag": []
+        },
+        "littlerunmo": {
+            "title": "Little Runmo",
+            "img": "https://i.ytimg.com/vi/ErQHVUQ6QCk/maxresdefault.jpg",
+            "desc": "Depois de dois anos desbastando lentamente essa coisa, ela finalmente chegou.\nAcompanhe Runmo enquanto ele descobre o sentido da vida.",
+            "dtl": "10/11/2019",
+            "author": "Gooseworx",
+            "contato": "https://twitter.com/GooseworxMusic",
+            "cl": 14,
+            "link": "https://youtu.be/ErQHVUQ6QCk",
+            "channel": "https://www.youtube.com/channel/UCqvpFAiRcY96CjKwiGHgwpg",
+            "tag": [
+                "filme",
+                "movie",
+                "animação"
+            ]
+        },
+        "helluvaboss": {
+            "title": "Helluva Boss",
+            "img": "https://i0.wp.com/lugarnenhum.net/wp-content/uploads/2021/10/helluva-boss-poster.jpg?fit=600%2C900&ssl=1",
+            "desc": "Siga Blitzo (o 'o' é silencioso) enquanto ele tenta administrar uma empresa destruidora de startups em um mercado muito competitivo,junto com seu especialista em armas Moxxie, sua poderosa Millie e sua recepcionista cão infernal Loona. Com a ajuda de um livro antigo obtido por um dos príncipes do Inferno, eles conseguem viabilizar seu trabalho e juntos tentam sobreviver um ao outro enquanto tentam manter seus negócios funcionando.",
+            "dtl": "25/11/2019",
+            "author": "Vivienne Medrano",
+            "contato": "https://twitter.com/vivziepop",
+            "cl": 16,
+            "link": "https://youtu.be/OlahNrlcgS4",
+            "channel": "https://www.youtube.com/@SpindleHorse",
+            "tag": [
+                "demonios",
+                "vivziepop",
+                "serie"
+            ]
+        },
+        "hazbinhotel": {
+            "title": "Hazbin Hotel",
+            "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQvOXfDcXY0t9fGJE9qd9sy5oBnXSSG4Oz45dS4uxwZzhR5ogx",
+            "desc": "Siga Charlie, a princesa do Inferno, enquanto ela persegue seu objetivo aparentemente impossível de reabilitar demônios para reduzir pacificamente a superpopulação em seu reino. Depois de um extermínio anual imposto por anjos, ela abre um hotel na esperança de que os pacientes façam \"check-out\" no céu. Enquanto a maior parte do Inferno zomba de seu objetivo, seu dedicado parceiro Vaggie e sua primeira cobaia, a estrela de cinema adulto Angel Dust, ficam ao seu lado. Quando uma entidade poderosa conhecida como \"Radio Demon\" procura Charlie para ajudá-la em seus esforços, seu sonho louco tem a chance de se tornar realidade.",
+            "dtl": "28/10/2019",
+            "author": "Vivienne Medrano",
+            "contato": "https://twitter.com/vivziepop",
+            "cl": 16,
+            "link": "https://youtu.be/Zlmswo0S0e0",
+            "channel": "https://www.youtube.com/@SpindleHorse",
+            "tag": [
+                "serie",
+                "demonios",
+                "vivziepop"
+            ]
+        },
+        "fuelled": {
+            "title": "Fuelled",
+            "img": "https://i.ytimg.com/vi/uVzT6D-yhZg/maxresdefault.jpg?v=61986afe",
+            "desc": "Fueled conta a história de uma dona de casa no caminho da vingança por seu falecido marido.\nFaculdade Sheridan 2021",
+            "dtl": "01/12/2021",
+            "author": "Killedthecat Productions",
+            "contato": "https://www.instagram.com/killedthecatproductions/",
+            "cl": 16,
+            "link": "https://youtu.be/uVzT6D-yhZg",
+            "channel": "https://www.youtube.com/@killedthecatproductions4275",
+            "tag": [
+                "curta"
+            ]
+        },
+        "mycatlucy": {
+            "title": "My Cat Lucy",
+            "img": "https://i2.wp.com/independentshortsawards.com/wp-content/uploads/2022/05/cac3140762-poster.jpg?ssl=1",
+            "desc": "Um menino tenta provar que seu gato de estimação está possuído por um demônio.",
+            "dtl": "31/10/2022",
+            "author": "Kate Vaillant",
+            "contato": "https://www.instagram.com/valiant_vaillant/",
+            "cl": 0,
+            "link": "https://youtu.be/H8wt59nnmaE",
+            "channel": "https://www.youtube.com/@katevaillant6224",
+            "tag": [
+                "curta"
+            ]
+        },
+        "proximomundo": {
+            "title": "Proximo Mundo",
+            "img": "https://i.ytimg.com/vi/80QuvMdSiQs/maxresdefault.jpg",
+            "desc": "O Próximo Mundo é uma série de animação pós apocalíptica independente ambientada no Brasil e produzida por mim, com previsão de estreia para 15/11/2022, no canal The Walker Center.",
+            "dtl": "15/11/2022",
+            "author": "The Walker Center - Douglas Xavier",
+            "contato": "https://twitter.com/DougalsXavier",
+            "cl": 16,
+            "link": "https://youtu.be/80QuvMdSiQs",
+            "channel": "https://www.youtube.com/@TheWalkerCenter",
+            "tag": [
+                "serie"
+            ]
+        },
+        "renegados": {
+            "title": "Renegados",
+            "img": "https://i.ytimg.com/vi/ai0XsZUswxQ/maxresdefault.jpg",
+            "desc": "6.000 anos após a Ascenção cósmica, dois funcionários da Yellow Guard desertam e se tornam Renegados.  (o Soldado CW - Chris Walker e o Cientista chefe Adam Miller)  ambos sobrevivem a queda de sua nave, e embarcam em uma implacável Jornada pelo vasto território RN.",
+            "dtl": "26/04/2022",
+            "author": "ArTrooper",
+            "contato": "https://www.instagram.com/_arty_trooper/",
+            "cl": 14,
+            "link": "https://youtu.be/ai0XsZUswxQ",
+            "channel": "https://www.youtube.com/@ArTrooperCPX",
+            "tag": [
+                "serie",
+                "minecraft"
+            ]
+        }
+    }
+}

@@ -1,0 +1,54 @@
+html {
+    background: #181110;
+}
+
+.capImg {
+    width: 100%;
+    height: 25em;
+    background: linear-gradient(315deg, #97896f, wheat);
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.m {
+    padding: 1em;
+    display: block;
+    background: rgb(255, 255, 255, 0.1);
+    contain: content;
+}
+
+.m>div {
+    width: 24%;
+    height: 14em;
+    background: rgb(78 52 42);
+    border-radius: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    cursor: pointer;
+    margin: 0.5%;
+    transition: transform 200ms;
+    float: left;
+}
+
+.m>div:hover {
+    transform: scale(1.1);
+    transition: transform 200ms;
+}
+
+.m>div>picture {
+    width: 100%;
+    height: 85%;
+    background-position: center;
+    background-size: cover;
+    /*border-radius: 1em 1em 0px 0px;*/
+}
+
+@media only screen and (max-width: 680px) and (min-width: 0px) {
+    .m>div {
+        width: 49% !important;
+    }
+}
