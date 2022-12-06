@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: title;
-    src: url(/font/title.ttf);
+    src: url(../font/title.ttf);
 }
 
 @font-face {
     font-family: texto;
-    src: url(/font/text.ttf);
+    src: url(../font/text.ttf);
 }
 
 
