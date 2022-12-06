@@ -7,7 +7,7 @@ function gntMovie(dt) {
 }
 
 function gomovie(m) {
-    window.open("/p/mc/index.html?m=" + m, "_top");
+    window.open("./p/mc/index.html?m=" + m, "_top");
 }
 
 pag = "home";
